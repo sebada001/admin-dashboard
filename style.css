@@ -61,7 +61,7 @@ body{
 }
 
 .search-icon{
-    content: url(/img/search.png);
+    content: url(img/search.png);
 }
 
 input[type="text"]{
@@ -91,7 +91,7 @@ input[type="text"]{
 }
 
 .notif-bell{
-    content: url(/img/bell-ring.png);
+    content: url(img/bell-ring.png);
     filter: var(--dark-filter);
 }
 
@@ -170,7 +170,7 @@ input[type="text"]{
 /* dashboard icons start */
 .letters::before{
     filter: var(--white-filter);
-    content: url(/img/view-dashboard.png);
+    content: url(img/view-dashboard.png);
     width: 40px;
     height: 47px;
     padding-right: 20px;
@@ -178,47 +178,47 @@ input[type="text"]{
 
 .nav-item1::before{
     filter: var(--white-filter);
-    content: url(/img/home.svg);
+    content: url(img/home.svg);
     width: 40px;
 }
 .nav-item2::before{
     filter: var(--white-filter);
-    content: url(/img/face-man-profile.svg);
+    content: url(img/face-man-profile.svg);
     width: 40px;
 }
 .nav-item3::before{
     filter: var(--white-filter);
-    content: url(/img/forum.svg);
+    content: url(img/forum.svg);
     width: 40px;
 }
 .nav-item4::before{
     filter: var(--white-filter);
-    content: url(/img/history.svg);
+    content: url(img/history.svg);
     width: 40px;
 }
 .nav-item5::before{
     filter: var(--white-filter);
-    content: url(/img/calendar-check.svg);
+    content: url(img/calendar-check.svg);
     width: 40px;
 }
 .nav-item6::before{
     filter: var(--white-filter);
-    content: url(/img/account-multiple.svg);
+    content: url(img/account-multiple.svg);
     width: 40px;
 }
 .settings-item1::before{
     filter: var(--white-filter);
-    content: url(/img/cog.svg);
+    content: url(img/cog.svg);
     width: 40px;
 }
 .settings-item2::before{
     filter: var(--white-filter);
-    content: url(/img/map-marker-question-outline.svg);
+    content: url(img/map-marker-question-outline.svg);
     width: 40px;
 }
 .settings-item3::before{
     filter: var(--white-filter);
-    content: url(/img/lock-outline.svg);
+    content: url(img/lock-outline.svg);
     width: 40px;
 }
 /* dashboard icons end */
